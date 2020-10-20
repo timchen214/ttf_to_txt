@@ -12,3 +12,10 @@ C:\Users\tim\Desktop\Crown\ttfReader\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAss
 C:\Users\tim\Desktop\Crown\ttfReader\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\tim\Desktop\Crown\ttfReader\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\tim\Desktop\Crown\ttfReader\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tim\source\repos\ttf_to_txt\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
